@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 8ae4e98e978931846a2b5f51ce8e62a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: COLUMNA 2
+    100002: COLUMNA 5
+    100004: Cube.002
+    100006: //RootNode
+    100008: Plataformas
+    400000: COLUMNA 2
+    400002: COLUMNA 5
+    400004: Cube.002
+    400006: //RootNode
+    400008: Plataformas
+    2100000: madera tablas
+    2100002: madera tablas.001
+    2100004: madera tablas.003
+    2100006: madera tablas.004
+    2100008: madera tablas.007
+    2100010: madera tablas.006
+    2100012: madera tablas.005
+    2100014: madera tablas.010
+    2100016: madera tablas.013
+    2100018: madera tablas.012
+    2100020: madera tablas.011
+    2100022: madera tablas.002
+    2100024: madera columna
+    2100026: madera tablas.014
+    2100028: madera columna.002
+    2100030: madera columna.003
+    2100032: madera tablas.009
+    2100034: madera columna.001
+    2300000: COLUMNA 2
+    2300002: COLUMNA 5
+    2300004: Cube.002
+    2300006: Plataformas
+    3300000: COLUMNA 2
+    3300002: COLUMNA 5
+    3300004: Cube.002
+    3300006: Plataformas
+    4300000: Plataformas
+    4300002: Cube.002
+    4300004: COLUMNA 2
+    4300006: COLUMNA 5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera columna
+    second: {fileID: 2100000, guid: 68e0fd5b0914a944fa6df11b6c33adc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera columna.001
+    second: {fileID: 2100000, guid: 62c82a68f5b6d2a4faf1f6a2791f2d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera columna.002
+    second: {fileID: 2100000, guid: 0557de2620c1c5c4c8210535fc120b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera columna.003
+    second: {fileID: 2100000, guid: fbf6f1e5ea50f1f45b1ca32223bfcf88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas
+    second: {fileID: 2100000, guid: c266bb990b9a9ea409d83fb04e83f72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.001
+    second: {fileID: 2100000, guid: 89b75c65b6b1dcb43bf08b38e1ac3095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.002
+    second: {fileID: 2100000, guid: 666aa83404a8bea4b9f17c8da2db9ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.003
+    second: {fileID: 2100000, guid: 5bcb3030223b75d4c82fb62ec640aecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.004
+    second: {fileID: 2100000, guid: 13f9b1fbe63e1ce42ba2733214a8509f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.005
+    second: {fileID: 2100000, guid: 71b5783e87a6b1241885b72588b0b4b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.006
+    second: {fileID: 2100000, guid: 4639ac303ea86414ba398e0104bd5e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.007
+    second: {fileID: 2100000, guid: 9dc0f8bf18faa4245bb36e75eeccd86b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.009
+    second: {fileID: 2100000, guid: bb494c6388d85cc4b8a5ea318eb3cf09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.010
+    second: {fileID: 2100000, guid: 9d05460f8b6c6084cacd8c7093f33dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.011
+    second: {fileID: 2100000, guid: 58a2800d3f424cb468c94beca6858241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.012
+    second: {fileID: 2100000, guid: b9ed5a5b9ec04d6498e3cb0042f0d29d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.013
+    second: {fileID: 2100000, guid: 068f3880fea5978469f223e67b9d56b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera tablas.014
+    second: {fileID: 2100000, guid: 0c28e595c777e0d43bdd6cea75502da7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WoodRough0089_1_seamless_S
+    second: {fileID: 2800000, guid: 3dcb17f5f0a7dc54a97088a5f0b9444c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rough_wood_diff_1k
+    second: {fileID: 2800000, guid: 27440fa4e5542b64b8a4ba516c25425b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
