@@ -10,7 +10,7 @@ public class Clonar : MonoBehaviour
     {
         ClonarCubo();
     }
-    public void ClonarCubo()
+    void ClonarCubo()
     {
         Instantiate(cubePrefab);
     }
