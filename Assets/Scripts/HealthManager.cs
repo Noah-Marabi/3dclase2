@@ -21,6 +21,7 @@ public class HealthManager : MonoBehaviour
         {
             return;
         }
+        Debug.Log("Damage taken");
         healthPoints -= damagePoints;
         manager.UpdateHealth(healthPoints);
     }
