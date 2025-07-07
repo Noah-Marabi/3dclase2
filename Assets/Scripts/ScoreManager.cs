@@ -14,7 +14,7 @@ public class ScoreManager : MonoBehaviour
     }
 
     // Update is called once per frame
-    public void addScore()
+    public void AddScore()
     {
         score++;
         uiManager.UpadateScore(score);
